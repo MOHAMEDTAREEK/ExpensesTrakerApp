@@ -20,4 +20,4 @@ you can also add or remove or update a certien expenses by clicking on the expen
 3- you can add a new expense by pressing  the add button at the top right corner of the app .
 4- you can update a current expense by clicking on the expense itself and then upadting it
                            --------this video is a demo for the app-------
-https://user-images.githubusercontent.com/108289141/189501145-d6ffd2de-f4ac-4855-bb2a-2ba2e651df50.mp4
+https://user-images.githubusercontent.com/108289141/189501483-f2ba0c8a-ec8e-4f15-9d26-7d1a0d4c16c3.mp4
