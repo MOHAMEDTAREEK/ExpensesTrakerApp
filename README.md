@@ -1,8 +1,8 @@
 # ExpensesTrakerApp
 -Description :
 This is an app that lets you keep track of your expenses through any period of time by you adding it ,
-the app displays all your expenses as well as recent expenses through two screens that you can navigate to by pressing to buttons in the bottombar of the app.
-you can also add or remove or update a certien expenses by clicking on the expense to update or cliking the add button at the top right corner of the app .
+the app displays all your expenses as well as recent expenses through two screens that you can navigate to by pressing to buttons in the bottom bar of the app.
+you can also add or remove or update a certain expenses by clicking on the expense to update or clicking the add button at the top right corner of the app .
 -Technolegies:
 1-react.
 2-javascript.
